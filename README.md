@@ -10,13 +10,13 @@ This analysis examines several Kickstarter campaigns to determine if the time of
 
 ### Analysis of Outcomes Based on Launch Date
 
-The below line graph pulls data from [this spreadsheet](kickstarter_challenge.xlxs) and compares the launch date of theater Kickstarter campaigns and their effect on outcomes. I broke each campaign up by month and counted the number of successful, failed, and canceled campaigns. These results gave me an idea of when the most successful campaigns happened and when the majority failed.
+The below line graph pulls data from [this spreadsheet](Kickstarter_Challenge.xlsx) and compares the launch date of theater Kickstarter campaigns and their effect on outcomes. I broke each campaign up by month and counted the number of successful, failed, and canceled campaigns. These results gave me an idea of when the most successful campaigns happened and when the majority failed.
 
 ![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-The below line graph pulls data from [this spreadsheet](kickstarter_challenge.xlxs) and compares different funding goals of Kickstarter campaigns for plays and their effect on outcomes. I broke each campaign up by a goal range and counted the number of successful, failed, and canceled campaigns. I took these numbers and generated percentages to indicate the likelihood of success. These results gave me an idea of which funding goals were most successful and if it had an impact on success at all.
+The below line graph pulls data from [this spreadsheet](Kickstarter_Challenge.xlsx) and compares different funding goals of Kickstarter campaigns for plays and their effect on outcomes. I broke each campaign up by a goal range and counted the number of successful, failed, and canceled campaigns. I took these numbers and generated percentages to indicate the likelihood of success. These results gave me an idea of which funding goals were most successful and if it had an impact on success at all.
 
 ![Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
