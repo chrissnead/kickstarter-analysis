@@ -22,6 +22,8 @@ The below line graph pulls data from [this spreadsheet](Kickstarter_Challenge.xl
 
 ### Challenges and Difficulties Encountered
 
+When reading the graph for outcomes based on goals, it is hard to draw any real solid conclusions. An observation could be that the higher the campaign goal the lower the success rate, but that is shown to not necessarily be the case for goals around $35,000 to $45000.
+
 ## Results
 
 ### Outcomes Based on Launch Date
