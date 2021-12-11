@@ -18,7 +18,9 @@ This analysis examines several Kickstarter campaigns to determine if the time of
 
 ### Outcomes Based on Launch Date
 
-Successful campaigns rose from March and hit an all-time high in May. One could assume from this observation that more theater campaigns succeed during the Spring months in order to make production for the busy summer season ahead. Comparing the success rate of theater campaigns as a whole, it seems if one creates a Kickstarter campaign in this category it is more likely to succeed than fail.
+Successful campaigns rose from March and hit an all-time high in May. One could assume from this observation that more theater campaigns succeed when launched during the Spring months in order to make production for the busy summer season ahead. 
+
+Comparing the success rate of theater campaigns as a whole, it seems if one creates a Kickstarter campaign in this category it is more likely to succeed than fail.
 
 ### Outcomes Based on Goals
 
