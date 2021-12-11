@@ -10,9 +10,13 @@ This analysis examines several Kickstarter campaigns to determine if the time of
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcome Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+
+[Kickstarter Analysis](kickstarter_challenge.xlxs)
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
