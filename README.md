@@ -4,6 +4,8 @@
 
 ### Purpose
 
+This analysis examines several Kickstarter campaigns to determine if the time of year or the goal has an impact on the success of a campaign.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
